@@ -1,0 +1,12 @@
+project-list/data/
+project-list/work/
+project-list/outputs/
+node_modules/
+*.log
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+.DS_Store
