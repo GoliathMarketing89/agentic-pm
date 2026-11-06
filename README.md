@@ -2,6 +2,8 @@
 
 **A daily board organized by you and your agents.**
 
+[Visit the Agentic PM website](https://agentic-pm.powis-michael.chatgpt.site/)
+
 Agentic PM is a personal project manager built around a simple division of work: you arrange the board and decide what matters; your agents help keep the projects up to date.
 
 Put projects into movable islands, nest related work, and pin what you want to focus on today. When the details get stale, ask an agent to walk through three or four projects at a time. Type or dictate a brain dump, skip the projects that haven't changed, and let the agent save the updates through the local MCP connector.
